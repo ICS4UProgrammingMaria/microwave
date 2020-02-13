@@ -1,3 +1,11 @@
+/*
+ * Created by: Maria Temu
+ * Created on: 10-Feb-2020
+ * Created for: ICS4U
+ * Day #7 (Microwave)
+ * This program allows the user to enter the length of log they have
+ * which is then used to find out the max amount of logs that will fit in a truck
+ */
 package microwave;
 
 import javax.swing.*;
@@ -39,6 +47,8 @@ public class frmMicrowave {
             public void actionPerformed(ActionEvent actionEvent) {
                 //lblTotal = 0;
                 total = sub;
+                String display = Double.toString(total);
+                lblTotal.setText(display);
 
             }
         });
@@ -46,6 +56,9 @@ public class frmMicrowave {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
                 total = pizza;
+                String display = Double.toString(total);
+                lblTotal.setText(display);
+
 
             }
         });
@@ -53,6 +66,9 @@ public class frmMicrowave {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
                 total = soup;
+                String display = Double.toString(total);
+                lblTotal.setText(display);
+
 
             }
         });
@@ -60,18 +76,27 @@ public class frmMicrowave {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
                 total = total + amount1;
+                String display = Double.toString(total);
+                lblTotal.setText(display);
+
             }
         });
         btnTwo.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
                 total = total + amount2;
+                String display = Double.toString(total);
+                lblTotal.setText(display);
+
             }
         });
         btnThree.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
                 total = total + amount3;
+                String display = Double.toString(total);
+                lblTotal.setText(display);
+
             }
         });
     }
