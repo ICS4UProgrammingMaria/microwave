@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6593c1-9ccd-47bd-a031-891f0a57c253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave$6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/microwave/microwave/frmMicrowave.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/microwave/frmMicrowave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/microwave/frmMicrowave.java" afterDir="false" />
     </list>
@@ -82,26 +87,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1047" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581530343081" />
-    <state x="1195" y="313" key="FileChooserDialogImpl" timestamp="1581530453623">
+    <state x="1195" y="313" key="FileChooserDialogImpl" timestamp="1582911346432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1195" y="313" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581530453623" />
-    <state width="1301" height="274" key="GridCell.Tab.0.bottom" timestamp="1581618764887">
+    <state x="1195" y="313" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582911346432" />
+    <state width="1877" height="50" key="GridCell.Tab.0.bottom" timestamp="1582911256807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1301" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581618764887" />
-    <state width="1301" height="274" key="GridCell.Tab.0.center" timestamp="1581618764887">
+    <state width="1877" height="50" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582911256807" />
+    <state width="1877" height="50" key="GridCell.Tab.0.center" timestamp="1582911256806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1301" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581618764887" />
-    <state width="1301" height="274" key="GridCell.Tab.0.left" timestamp="1581618764887">
+    <state width="1877" height="50" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582911256806" />
+    <state width="1877" height="50" key="GridCell.Tab.0.left" timestamp="1582911256806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1301" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581618764887" />
-    <state width="1301" height="274" key="GridCell.Tab.0.right" timestamp="1581618764887">
+    <state width="1877" height="50" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582911256806" />
+    <state width="1877" height="50" key="GridCell.Tab.0.right" timestamp="1582911256807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1301" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581618764887" />
+    <state width="1877" height="50" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582911256807" />
     <state x="837" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581613201231">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -59,7 +59,6 @@ public class frmMicrowave {
                 String display = Double.toString(total);
                 lblTotal.setText(display);
 
-
             }
         });
         soupButton.addActionListener(new ActionListener() {
@@ -68,7 +67,6 @@ public class frmMicrowave {
                 total = soup;
                 String display = Double.toString(total);
                 lblTotal.setText(display);
-
 
             }
         });
@@ -96,7 +94,6 @@ public class frmMicrowave {
                 total = total + amount3;
                 String display = Double.toString(total);
                 lblTotal.setText(display);
-
             }
         });
     }
